@@ -1,0 +1,223 @@
+
+numberX.png
+size: 790,1034
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishukuangdeng_unpack/ui_light_04_00
+  rotate: false
+  xy: 1, 19
+  size: 181, 77
+  orig: 225, 180
+  offset: 22, 18
+  index: -1
+beishukuangdeng_unpack/ui_light_04_01
+  rotate: true
+  xy: 234, 439
+  size: 185, 115
+  orig: 225, 180
+  offset: 19, 16
+  index: -1
+beishukuangdeng_unpack/ui_light_04_02
+  rotate: true
+  xy: 361, 292
+  size: 185, 138
+  orig: 225, 180
+  offset: 19, 16
+  index: -1
+beishukuangdeng_unpack/ui_light_04_03
+  rotate: true
+  xy: 351, 479
+  size: 183, 144
+  orig: 225, 180
+  offset: 20, 17
+  index: -1
+beishukuangdeng_unpack/ui_light_04_04
+  rotate: false
+  xy: 564, 819
+  size: 183, 145
+  orig: 225, 180
+  offset: 20, 18
+  index: -1
+beishukuangdeng_unpack/ui_light_04_05
+  rotate: false
+  xy: 179, 294
+  size: 180, 143
+  orig: 225, 180
+  offset: 21, 20
+  index: -1
+beishukuangdeng_unpack/ui_light_04_06
+  rotate: false
+  xy: 564, 675
+  size: 178, 142
+  orig: 225, 180
+  offset: 24, 20
+  index: -1
+beishukuangdeng_unpack/ui_light_04_07
+  rotate: true
+  xy: 646, 329
+  size: 166, 143
+  orig: 225, 180
+  offset: 38, 18
+  index: -1
+beishukuangdeng_unpack/ui_light_04_08
+  rotate: true
+  xy: 464, 147
+  size: 143, 142
+  orig: 225, 180
+  offset: 62, 17
+  index: -1
+beishukuangdeng_unpack/ui_light_04_09
+  rotate: false
+  xy: 608, 158
+  size: 111, 135
+  orig: 225, 180
+  offset: 94, 17
+  index: -1
+beishukuangdeng_unpack/ui_light_04_10
+  rotate: false
+  xy: 451, 2
+  size: 143, 143
+  orig: 225, 180
+  offset: 62, 17
+  index: -1
+beishukuangdeng_unpack/ui_light_04_11
+  rotate: false
+  xy: 283, 1
+  size: 166, 144
+  orig: 225, 180
+  offset: 38, 18
+  index: -1
+beishukuangdeng_unpack/ui_light_04_12
+  rotate: false
+  xy: 283, 147
+  size: 179, 143
+  orig: 225, 180
+  offset: 24, 20
+  index: -1
+beishukuangdeng_unpack/ui_light_04_13
+  rotate: true
+  xy: 501, 295
+  size: 182, 143
+  orig: 225, 180
+  offset: 21, 19
+  index: -1
+beishukuangdeng_unpack/ui_light_04_14
+  rotate: true
+  xy: 1, 98
+  size: 184, 145
+  orig: 225, 180
+  offset: 20, 17
+  index: -1
+beishukuangdeng_unpack/ui_light_04_15
+  rotate: false
+  xy: 337, 664
+  size: 185, 145
+  orig: 225, 180
+  offset: 19, 16
+  index: -1
+beishukuangdeng_unpack/ui_light_04_16
+  rotate: true
+  xy: 497, 479
+  size: 183, 138
+  orig: 225, 180
+  offset: 20, 17
+  index: -1
+beishukuangdeng_unpack/ui_light_04_17
+  rotate: true
+  xy: 148, 100
+  size: 182, 133
+  orig: 225, 180
+  offset: 21, 17
+  index: -1
+beishukuangdeng_unpack/ui_light_04_18
+  rotate: true
+  xy: 637, 497
+  size: 176, 118
+  orig: 225, 180
+  offset: 22, 18
+  index: -1
+beishukuangdeng_unpack/ui_light_04_19
+  rotate: true
+  xy: 184, 48
+  size: 50, 80
+  orig: 225, 180
+  offset: 25, 22
+  index: -1
+beishuxianshikuang_unpack/ui_footer_02
+  rotate: true
+  xy: 596, 17
+  size: 128, 118
+  orig: 176, 158
+  offset: 15, 19
+  index: -1
+beishuxianshikuang_unpack/ui_light_03_a
+  rotate: false
+  xy: 1, 444
+  size: 231, 180
+  orig: 246, 195
+  offset: 8, 9
+  index: -1
+beishuxianshikuang_unpack/ui_light_03_b
+  rotate: false
+  xy: 337, 811
+  size: 225, 153
+  orig: 246, 195
+  offset: 9, 29
+  index: -1
+ib_vfx_b_01
+  rotate: true
+  xy: 721, 25
+  size: 302, 21
+  orig: 368, 21
+  offset: 0, 0
+  index: -1
+ib_vfx_b_02
+  rotate: true
+  xy: 744, 25
+  size: 302, 21
+  orig: 368, 21
+  offset: 0, 0
+  index: -1
+ib_vfx_b_03
+  rotate: true
+  xy: 767, 25
+  size: 302, 21
+  orig: 368, 21
+  offset: 0, 0
+  index: -1
+jiantoutexiao
+  rotate: false
+  xy: 1, 284
+  size: 176, 158
+  orig: 176, 158
+  offset: 0, 0
+  index: -1
+toplight1
+  rotate: false
+  xy: 1, 966
+  size: 745, 21
+  orig: 751, 21
+  offset: 0, 0
+  index: -1
+toplight2
+  rotate: false
+  xy: 1, 1012
+  size: 756, 21
+  orig: 756, 21
+  offset: 0, 0
+  index: -1
+toplight3
+  rotate: false
+  xy: 1, 989
+  size: 756, 21
+  orig: 756, 21
+  offset: 0, 0
+  index: -1
+wh_vfx_g
+  rotate: false
+  xy: 1, 626
+  size: 334, 338
+  orig: 334, 338
+  offset: 0, 0
+  index: -1

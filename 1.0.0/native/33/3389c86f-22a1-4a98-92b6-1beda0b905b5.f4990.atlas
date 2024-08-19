@@ -1,0 +1,286 @@
+
+wait.png
+size: 1925,453
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b/sd_vfx_b_00
+  rotate: true
+  xy: 1820, 386
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_01
+  rotate: true
+  xy: 1820, 318
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_02
+  rotate: true
+  xy: 1820, 250
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_03
+  rotate: true
+  xy: 1, 12
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_04
+  rotate: false
+  xy: 1510, 125
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_05
+  rotate: false
+  xy: 1226, 123
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_06
+  rotate: true
+  xy: 1816, 182
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_07
+  rotate: true
+  xy: 577, 1
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_08
+  rotate: true
+  xy: 683, 1
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_09
+  rotate: false
+  xy: 1226, 17
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_10
+  rotate: true
+  xy: 1294, 19
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_11
+  rotate: true
+  xy: 1400, 19
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_12
+  rotate: true
+  xy: 1578, 98
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_13
+  rotate: true
+  xy: 1684, 98
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_14
+  rotate: false
+  xy: 1510, 19
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_15
+  rotate: true
+  xy: 1578, 30
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_16
+  rotate: true
+  xy: 1684, 30
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_17
+  rotate: false
+  xy: 1790, 60
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_18
+  rotate: false
+  xy: 1858, 76
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+b/sd_vfx_b_19
+  rotate: true
+  xy: 143, 20
+  size: 66, 104
+  orig: 72, 104
+  offset: 3, 0
+  index: -1
+c/sd_vfx_c_00
+  rotate: false
+  xy: 577, 215
+  size: 140, 237
+  orig: 148, 249
+  offset: 5, 3
+  index: -1
+c/sd_vfx_c_01
+  rotate: false
+  xy: 719, 215
+  size: 138, 237
+  orig: 148, 249
+  offset: 7, 0
+  index: -1
+c/sd_vfx_c_02
+  rotate: false
+  xy: 859, 217
+  size: 140, 235
+  orig: 148, 249
+  offset: 5, 2
+  index: -1
+c/sd_vfx_c_03
+  rotate: false
+  xy: 435, 213
+  size: 140, 239
+  orig: 148, 249
+  offset: 5, 1
+  index: -1
+c/sd_vfx_c_04
+  rotate: false
+  xy: 435, 8
+  size: 140, 203
+  orig: 148, 249
+  offset: 5, 0
+  index: -1
+c/sd_vfx_c_05
+  rotate: false
+  xy: 792, 6
+  size: 142, 207
+  orig: 148, 249
+  offset: 3, 3
+  index: -1
+c/sd_vfx_c_06
+  rotate: true
+  xy: 1297, 87
+  size: 142, 211
+  orig: 148, 249
+  offset: 3, 2
+  index: -1
+c/sd_vfx_c_07
+  rotate: false
+  xy: 1, 80
+  size: 140, 243
+  orig: 148, 249
+  offset: 4, 1
+  index: -1
+c/sd_vfx_c_08
+  rotate: true
+  xy: 1593, 166
+  size: 142, 221
+  orig: 148, 249
+  offset: 3, 2
+  index: -1
+c/sd_vfx_c_09
+  rotate: true
+  xy: 577, 69
+  size: 144, 213
+  orig: 148, 249
+  offset: 1, 0
+  index: -1
+c/sd_vfx_c_10
+  rotate: false
+  xy: 936, 4
+  size: 144, 211
+  orig: 148, 249
+  offset: 2, 1
+  index: -1
+c/sd_vfx_c_11
+  rotate: false
+  xy: 143, 88
+  size: 146, 235
+  orig: 148, 249
+  offset: 1, 0
+  index: -1
+c/sd_vfx_c_12
+  rotate: false
+  xy: 1149, 229
+  size: 146, 223
+  orig: 148, 249
+  offset: 1, 0
+  index: -1
+c/sd_vfx_c_13
+  rotate: false
+  xy: 1297, 231
+  size: 146, 221
+  orig: 148, 249
+  offset: 1, 2
+  index: -1
+c/sd_vfx_c_14
+  rotate: false
+  xy: 1001, 227
+  size: 146, 225
+  orig: 148, 249
+  offset: 1, 4
+  index: -1
+c/sd_vfx_c_15
+  rotate: false
+  xy: 1445, 231
+  size: 146, 221
+  orig: 148, 249
+  offset: 0, 0
+  index: -1
+c/sd_vfx_c_16
+  rotate: false
+  xy: 291, 86
+  size: 142, 237
+  orig: 148, 249
+  offset: 3, 0
+  index: -1
+c/sd_vfx_c_17
+  rotate: true
+  xy: 1593, 310
+  size: 142, 225
+  orig: 148, 249
+  offset: 3, 2
+  index: -1
+c/sd_vfx_c_18
+  rotate: false
+  xy: 1082, 26
+  size: 142, 199
+  orig: 148, 249
+  offset: 3, 3
+  index: -1
+sd_vfx_a
+  rotate: false
+  xy: 1, 325
+  size: 432, 127
+  orig: 432, 139
+  offset: 0, 6
+  index: -1

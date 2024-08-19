@@ -1,0 +1,243 @@
+
+free_kaishi.png
+size: 2046,1666
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianfeijiesuantu_unpack/tw_vfx_l
+  rotate: false
+  xy: 838, 928
+  size: 414, 326
+  orig: 618, 326
+  offset: 101, 0
+  index: -1
+mianfeijiesuanui_unpack/bl_vfx_e
+  rotate: false
+  xy: 1, 739
+  size: 399, 378
+  orig: 400, 392
+  offset: 1, 7
+  index: -1
+mianfeijiesuanui_unpack/bl_vfx_g
+  rotate: false
+  xy: 1254, 928
+  size: 420, 326
+  orig: 420, 326
+  offset: 0, 0
+  index: -1
+mianfeijiesuanui_unpack/bl_vfx_i
+  rotate: false
+  xy: 823, 543
+  size: 571, 383
+  orig: 585, 396
+  offset: 7, 7
+  index: -1
+mianfeijiesuanui_unpack/bl_vfx_k
+  rotate: false
+  xy: 1396, 534
+  size: 540, 392
+  orig: 540, 392
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_00
+  rotate: true
+  xy: 1, 1530
+  size: 135, 293
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_01
+  rotate: true
+  xy: 296, 1530
+  size: 135, 293
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_02
+  rotate: true
+  xy: 591, 1530
+  size: 135, 293
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_03
+  rotate: true
+  xy: 886, 1530
+  size: 135, 293
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_04
+  rotate: true
+  xy: 1181, 1530
+  size: 135, 262
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_05
+  rotate: true
+  xy: 1445, 1530
+  size: 135, 268
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_06
+  rotate: true
+  xy: 1715, 1530
+  size: 135, 274
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_07
+  rotate: true
+  xy: 1, 1393
+  size: 135, 280
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_08
+  rotate: true
+  xy: 283, 1393
+  size: 135, 290
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_09
+  rotate: true
+  xy: 575, 1393
+  size: 135, 292
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_10
+  rotate: true
+  xy: 869, 1393
+  size: 135, 293
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_11
+  rotate: true
+  xy: 1164, 1393
+  size: 135, 293
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_12
+  rotate: true
+  xy: 1459, 1393
+  size: 135, 292
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_13
+  rotate: true
+  xy: 1753, 1393
+  size: 135, 292
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_14
+  rotate: true
+  xy: 1, 1256
+  size: 135, 292
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_15
+  rotate: true
+  xy: 295, 1256
+  size: 135, 278
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_16
+  rotate: true
+  xy: 575, 1256
+  size: 135, 278
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_17
+  rotate: true
+  xy: 855, 1256
+  size: 135, 293
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_18
+  rotate: true
+  xy: 1150, 1256
+  size: 135, 293
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_19
+  rotate: true
+  xy: 1445, 1256
+  size: 135, 293
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_20
+  rotate: true
+  xy: 1740, 1256
+  size: 135, 293
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_21
+  rotate: true
+  xy: 1, 1119
+  size: 135, 293
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+mianfeikaishiguangxiao_unpack/bl_vfx_d_22
+  rotate: true
+  xy: 296, 1119
+  size: 135, 293
+  orig: 135, 293
+  offset: 0, 0
+  index: -1
+xuanzhuananniuhemianfeianniutexiao_unpack/fs_vfx_g
+  rotate: false
+  xy: 591, 1009
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+xuanzhuananniuhemianfeianniutexiao_unpack/fs_vfx_i
+  rotate: false
+  xy: 402, 592
+  size: 419, 415
+  orig: 419, 415
+  offset: 0, 0
+  index: -1
+youxibeijinhemianfeikaishitu_unpack/bl_vfx_a
+  rotate: true
+  xy: 1, 1
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+
+free_kaishi2.png
+size: 1305,1173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianfeijiesuanui_unpack/bl_vfx_c
+  rotate: false
+  xy: 671, 127
+  size: 633, 1045
+  orig: 637, 1077
+  offset: 0, 32
+  index: -1
+mianfeijiesuanui_unpack/bl_vfx_c_02
+  rotate: false
+  xy: 1, 1
+  size: 668, 1171
+  orig: 668, 1171
+  offset: 0, 0
+  index: -1

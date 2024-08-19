@@ -1,0 +1,160 @@
+
+spin_time.jpg
+size: 1014,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_vfx_j
+  rotate: false
+  xy: 1, 9
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_00
+  rotate: false
+  xy: 629, 211
+  size: 20, 20
+  orig: 190, 190
+  offset: 85, 85
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_01
+  rotate: true
+  xy: 937, 289
+  size: 38, 42
+  orig: 190, 190
+  offset: 75, 74
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_02
+  rotate: true
+  xy: 801, 237
+  size: 50, 62
+  orig: 190, 190
+  offset: 69, 64
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_03
+  rotate: true
+  xy: 903, 101
+  size: 60, 76
+  orig: 190, 190
+  offset: 64, 56
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_04
+  rotate: false
+  xy: 937, 329
+  size: 70, 90
+  orig: 190, 190
+  offset: 58, 50
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_05
+  rotate: false
+  xy: 935, 421
+  size: 78, 100
+  orig: 190, 190
+  offset: 53, 45
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_06
+  rotate: true
+  xy: 515, 13
+  size: 84, 108
+  orig: 190, 190
+  offset: 50, 40
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_07
+  rotate: true
+  xy: 889, 5
+  size: 90, 114
+  orig: 190, 190
+  offset: 46, 37
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_08
+  rotate: true
+  xy: 767, 1
+  size: 94, 120
+  orig: 190, 190
+  offset: 44, 34
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_09
+  rotate: false
+  xy: 903, 163
+  size: 100, 124
+  orig: 190, 190
+  offset: 42, 32
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_10
+  rotate: true
+  xy: 807, 289
+  size: 106, 128
+  orig: 190, 190
+  offset: 40, 30
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_11
+  rotate: false
+  xy: 515, 99
+  size: 112, 132
+  orig: 190, 190
+  offset: 39, 28
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_12
+  rotate: true
+  xy: 659, 117
+  size: 116, 134
+  orig: 190, 190
+  offset: 38, 27
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_13
+  rotate: true
+  xy: 799, 397
+  size: 124, 134
+  orig: 190, 190
+  offset: 34, 26
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_14
+  rotate: true
+  xy: 661, 389
+  size: 132, 136
+  orig: 190, 190
+  offset: 30, 26
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_15
+  rotate: false
+  xy: 659, 235
+  size: 140, 140
+  orig: 190, 190
+  offset: 26, 24
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_16
+  rotate: false
+  xy: 515, 377
+  size: 144, 144
+  orig: 190, 190
+  offset: 24, 22
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_17
+  rotate: false
+  xy: 515, 233
+  size: 142, 142
+  orig: 190, 190
+  offset: 25, 23
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_18
+  rotate: false
+  xy: 795, 97
+  size: 106, 136
+  orig: 190, 190
+  offset: 36, 26
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_19
+  rotate: true
+  xy: 629, 9
+  size: 106, 136
+  orig: 190, 190
+  offset: 36, 26
+  index: -1
+mianfeizhonghuodemianfeijiacishu_unpack/fs_vfx_k_20
+  rotate: false
+  xy: 799, 389
+  size: 6, 6
+  orig: 190, 190
+  offset: 100, 75
+  index: -1
